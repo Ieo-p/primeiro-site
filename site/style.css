@@ -1,6 +1,8 @@
 body {
   background: #B0E0E6;
   font-family: Verdana;
+  max-width: 900px;
+  margin: auto;
 }
 
 .header_photo {
@@ -45,6 +47,7 @@ text-transform: capitalize;
 
 .post_image {
   margin-bottom: 15px;
+  width: 100%;
 }
 
 .contacts_list {
